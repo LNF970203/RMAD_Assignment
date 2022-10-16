@@ -1,2 +1,2 @@
-# RMAD_Assignment
-repo for RMAD assignment
+# mobileApp
+Training-first mobile app
