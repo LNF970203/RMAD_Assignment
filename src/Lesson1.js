@@ -2,7 +2,7 @@
 import React from 'react';
 import {View, SafeAreaView, Text} from 'react-native';
 import styles from './Home.styles';
-const Lesson1 = () => {
+const Lesson_01 = () => {
   React.useEffect(() => {
     functionone();
   }, []);
@@ -57,4 +57,4 @@ const Lesson1 = () => {
   );
 };
 
-export default Lesson1;
+export default Lesson_01;
